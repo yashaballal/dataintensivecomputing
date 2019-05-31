@@ -1,0 +1,104 @@
+action	180 
+	
+beyond	140 
+	
+commissioner	138 
+	
+credit	226 
+	
+danvers	301 
+	
+decision	153 
+	
+design	150 
+	
+ejsehar	1005 
+	
+energy	245 
+	
+enough	127 
+	
+episode	175 
+	
+eventually	224 
+	
+finally	119 
+	
+first	926 
+	
+further	128 
+	
+george	231 
+	
+gordon	213 
+	
+house	148 
+	
+image	113 
+	
+itempropauthor	662 
+	
+itemscope	662 
+	
+makes	130 
+	
+member	150 
+	
+named	249 
+	
+nearly	265 
+	
+never	146 
+	
+people	325 
+	
+political	141 
+	
+power	194 
+	
+powers	498 
+	
+protect	144 
+	
+reach	163 
+	
+review	140 
+	
+robinson	284 
+	
+school	132 
+	
+separate	152 
+	
+statement	197 
+	
+takes	110 
+	
+three	549 
+	
+together	189 
+	
+until	174 
+	
+within	250 
+	
+writer	130 
+	
+written	124 
+	
+years	605 
+	
+“umbrella	138 
+	
+“‘hot	1 
+	
+MAXIMUM|0|ejsehar|1005	
+MAXIMUM|1|first|926	
+MAXIMUM|2|itemscope|662	
+MAXIMUM|3|itempropauthor|662	
+MAXIMUM|4|years|605	
+MAXIMUM|5|three|549	
+MAXIMUM|6|powers|498	
+MAXIMUM|7|people|325	
+MAXIMUM|8|danvers|301	
+MAXIMUM|9|robinson|284	

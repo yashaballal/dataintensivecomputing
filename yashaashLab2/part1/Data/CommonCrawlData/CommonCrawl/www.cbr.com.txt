@@ -1,0 +1,207 @@
+<p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p><p class="cartMiniSummary count" data-multiple-item-text="Items" data-single-item-text="Item">
+						Cart <span class="cart-items">(0<span class="cart-item-title"> Items</span>)</span>
+</p><p class="cartMiniSummary total">Total <span class="cart-total">0.00</span></p>

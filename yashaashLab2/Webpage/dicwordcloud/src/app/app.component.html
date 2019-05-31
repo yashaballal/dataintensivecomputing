@@ -1,0 +1,76 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div id="maindiv" style="width: 100%; height: 100%" >
+  <div style="text-align:left;width:20%;height:5%;font-size:15pt;">
+    <select style="text-align:left; width:100%; height:100%;background-color:#6495ED;" class="custom-select" (change)="changeSelection($event)" formControlName="optionName">
+        <option *ngFor="let val of DataOptions" [value]="val" style="font-size: 20px">{{val}}</option>
+    </select>
+  </div>
+  <h1>{{displayValue}}</h1>
+  <div style="width: 100%; display: table;" *ngIf=(conditionFlag1)>
+    <div style="display: table-row">
+        <div style="min-width:50%; height:100%; display: table-cell;">
+            <div AgWordCloud 
+              #word_cloud_chart=ag-word-cloud 
+              [wordData]="data1"
+              [options]="options1"
+              (click)="logClicked1($event)">
+            </div>
+          <h2>Word count is : {{countDisplay1}}</h2>
+        </div>
+        <div style="width: 50%; height:100%; display: table-cell;">
+            <div AgWordCloud 
+              #word_cloud_chart=ag-word-cloud 
+              [wordData]="data2"
+              [options]="options1"
+              (click)="logClicked2($event)">
+            </div>
+          <h2>Word co-occurence is : {{countDisplay2}}</h2>
+        </div>
+    </div>
+  </div>
+  <div style="width: 100%; display: table;" *ngIf=(conditionFlag2)>
+    <div style="display: table-row">
+        <div style="width: 50%; height:100%; display: table-cell;">
+            <div AgWordCloud 
+              #word_cloud_chart=ag-word-cloud 
+              [wordData]="data3"
+              [options]="options1"
+              (click)="logClicked3($event)">
+            </div>
+          <h2>Word count is : {{countDisplay3}}</h2>
+        </div>
+        <div style="min-width:50%; height:100%; display: table-cell;">
+            <div AgWordCloud 
+              #word_cloud_chart=ag-word-cloud 
+              [wordData]="data4"
+              [options]="options1"
+              (click)="logClicked4($event)">
+            </div>
+          <h2>Word co-occurence is : {{countDisplay4}}</h2>
+        </div>
+    </div>
+  </div>
+  <div style="width: 100%; display: table;" *ngIf=(conditionFlag3)>
+    <div style="display: table-row">
+        <div style="width: 50%; height:100%; display: table-cell;">
+            <div AgWordCloud 
+              #word_cloud_chart=ag-word-cloud 
+              [wordData]="data5"
+              [options]="options1"
+              (click)="logClicked5($event)">
+            </div>
+          <h2>Word count is : {{countDisplay5}}</h2>
+        </div>
+        <div style="width: 50%; height:100%; display: table-cell;">
+            <div AgWordCloud 
+              #word_cloud_chart=ag-word-cloud 
+              [wordData]="data6"
+              [options]="options1"
+              (click)="logClicked6($event)">
+            </div>
+          <h2>Word co-occurence is : {{countDisplay6}}</h2>
+        </div>
+    </div>
+  </div>
+</div>
+<router-outlet></router-outlet>

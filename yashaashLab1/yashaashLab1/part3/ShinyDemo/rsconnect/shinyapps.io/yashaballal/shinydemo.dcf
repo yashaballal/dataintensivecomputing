@@ -1,0 +1,10 @@
+name: shinydemo
+title:
+username:
+account: yashaballal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 777695
+bundleId: 1926959
+url: https://yashaballal.shinyapps.io/shinydemo/
+when: 1552105995.13866
